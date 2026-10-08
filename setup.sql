@@ -17,3 +17,4 @@ CREATE TABLE dbo.orders (
     total_amount DECIMAL(10,2) NOT NULL,
     CONSTRAINT FK_orders_users FOREIGN KEY (user_id) REFERENCES dbo.users(id)
 );
+
