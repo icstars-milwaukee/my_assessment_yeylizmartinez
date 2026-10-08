@@ -1,1 +1,1 @@
-
+For testing each test should be logged with an Identifier on a table like in excel for example, there should be an objective for testing, findings should be detailed with a why, steps should be taken, conditions or precondition's should be met, valid and invalid inputs such as logins and user ids should be studied, results should be explained expected or unexpected. testing should be recorded as pass or fail. 
